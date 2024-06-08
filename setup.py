@@ -56,7 +56,7 @@ extras_require = {
     "dev": ["absl-py", "black", "nose2", "pandas", "pytype", "pyyaml", "Pillow", "ipython"],
 }
 
-url = "https://github.com/google/generative-ai-python"
+url = "https://github.com/hkhanal/generative-ai-python"
 
 readme = (package_root / "README.md").read_text()
 
